@@ -7,7 +7,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shubhanshi01&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
-  <img src="https://badges.pufler.dev/commits/monthly/shubhanshi01" alt="Monthly commits" />
 </p>
 
 ---
