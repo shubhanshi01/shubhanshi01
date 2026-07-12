@@ -66,7 +66,7 @@ Agentic LLM pipeline integrating 3 third-party APIs (Ocean.io, LinkedIn, Brevo) 
 
 Multiclass fake news detection system using an enhanced fuzzy-layer deep learning model. Incorporates speaker credibility, contextual metadata, justification, and temporal features for nuanced NLP classification. Achieved highest-in-class multiclass detection accuracy. Deployed via Flask REST API with attention-based explainability.
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/shubhanshi01/Fuzzy-Fake-News-Detection)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/shubhanshi01/Beyond-Binary-Classification-Fuzzy-Deep-Learning-for-Nuanced-Fake-News-Detection)
 
 ---
 
