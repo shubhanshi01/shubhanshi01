@@ -37,7 +37,7 @@ I'm a full-stack engineer and AI/ML researcher with hands-on experience shipping
 
 Microservices-based healthcare platform with 6+ independent services handling patient records, billing, appointments, prescriptions, and real-time notifications via Kafka event streaming. Each microservice containerizes in ~41ms.
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/shubhanshi01/patient-management-system)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/shubhanshi01/patient-management)
 
 ---
 
