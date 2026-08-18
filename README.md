@@ -32,13 +32,14 @@
 **[Graph-Based Threat Detection](https://github.com/shubhanshi01/Advanced-Persistent-Threat-Detection-Using-Temporal-Graph-Neural-Networks)** — Published GNN research · Python, TensorFlow
 → **98% accuracy**, outperformed 5 baseline models (ANN, CNN, LSTM, GCN, attention)
 
-**[AI B2B Outreach Pipeline](https://github.com/shubhanshi01/ColdEmailOutreach)** — Agentic LLM pipeline · React, Node.js, OpenAI API
-→ **90% faster** sales research (3–4 hrs → under 2 min), 100+ personalized messages/run
+**[3GPP Standards RAG Chatbot](https://github.com/shubhanshi01/ChatBot3GPP)** — Retrieval-augmented QA system · Python, FastAPI, FAISS, BM25, BGE-M3, Groq
+→ Hybrid dense + sparse retrieval over 3GPP Release 18 standards with source-attributed, abstention-aware answers
 
 <details>
 <summary><b>More projects →</b></summary>
 <br>
 
+- **[AI B2B Outreach Pipeline](https://github.com/shubhanshi01/ColdEmailOutreach)** — Agentic LLM pipeline, React, Node.js, OpenAI API · 90% faster sales research
 - **[Patient Management System](https://github.com/shubhanshi01/patient-management)** — Java/Spring Boot microservices, Kafka, PostgreSQL, Docker, AWS · 6+ services, ~41ms containerization
 - **[Fake News Detection](https://github.com/shubhanshi01/Beyond-Binary-Classification-Fuzzy-Deep-Learning-for-Nuanced-Fake-News-Detection)** — Fuzzy deep learning NLP model, Python, Flask
 - **[OrderYum](https://github.com/shubhanshi01/OrderYum)** — Cross-platform food delivery app, React Native, Expo, Firebase
