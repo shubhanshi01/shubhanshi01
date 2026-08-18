@@ -3,7 +3,7 @@
 # Shubhanshi Gupta
 ### Full-Stack & AI/ML Software Engineer
 
-🎓 Final-Year B.Tech ICT, SASTRA University (2026) &nbsp;·&nbsp; &nbsp;·&nbsp; 🟢 Open to SDE-1 / Associate SWE / GET roles
+🎓 Final-Year B.Tech ICT, SASTRA University (2026) &nbsp;&nbsp;·&nbsp; 🟢 Open to SDE-1 / Associate SWE / GET roles
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shubhanshi--gupta.vercel.app-black?style=flat-square&logo=vercel)](https://shubhanshi-gupta.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shubhanshi--g-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/shubhanshi-g)
